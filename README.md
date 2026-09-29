@@ -6,6 +6,9 @@ Naquee Rizwan, Subhankar Swain, Paramananda Bhaskar, Shehryaar Shah Khan*, Gagan
 
 (*) denotes equal contribution
 
+## PEST Dataset 🤗
+
+[https://huggingface.co/datasets/swainsubhankar/PEST](https://huggingface.co/datasets/swainsubhankar/PEST)
 
 **Arxiv:** [https://arxiv.org/abs/2601.04692](https://arxiv.org/abs/2601.04692)
 
@@ -46,9 +49,9 @@ In this work, we examine hateful memes from three complementary angles -- how to
 If you find our work useful in your research, please consider citing:
 
 ```bibtex
-@misc{rizwan2026seeexplainintervenefewshot,
-      title={See, Explain, and Intervene: A Few-Shot Multimodal Agent Framework for Hateful Meme Moderation}, 
-      author={Naquee Rizwan and Subhankar Swain and Paramananda Bhaskar and Gagan Aryan and Shehryaar Shah Khan and Animesh Mukherjee},
+@misc{rizwan2026pestparameterefficientsteering,
+      title={PEST: Parameter Efficient Steering of Blackbox VLMs via Agentic Few-shot Alignment for Hateful Meme Moderation}, 
+      author={Naquee Rizwan and Subhankar Swain and Paramananda Bhaskar and Shehryaar Shah Khan and Gagan Aryan and Animesh Mukherjee},
       year={2026},
       eprint={2601.04692},
       archivePrefix={arXiv},
