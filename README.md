@@ -6,7 +6,7 @@ Naquee Rizwan, Subhankar Swain, Paramananda Bhaskar, Shehryaar Shah Khan*, Gagan
 
 (*) denotes equal contribution
 
-## PEST Dataset 🤗
+## Dataset 🤗
 
 [https://huggingface.co/datasets/swainsubhankar/PEST](https://huggingface.co/datasets/swainsubhankar/PEST)
 
