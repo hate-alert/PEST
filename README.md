@@ -47,6 +47,26 @@ In this work, we examine hateful memes from three complementary angles -- how to
 If you find our work useful in your research, please consider citing:
 
 ```bibtex
+@inproceedings{10.1145/3767308.3836309,
+author = {Rizwan, Naquee and Swain, Subhankar and Bhaskar, Paramananda and Khan, Shehryaar Shah and Aryan, Gagan and Mukherjee, Animesh},
+title = {PEST: Parameter Efficient Steering of Blackbox VLMs via Agentic Few-shot Alignment for Hateful Meme Moderation},
+year = {2026},
+isbn = {9798400722134},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3767308.3836309},
+doi = {10.1145/3767308.3836309},
+abstract = {In this work, we examine hateful memes from three complementary angles - how to detect them, how to explain their content and how to intervene them before being posted - by applying a range of strategies built on top of generative AI models. To the best of our knowledge, explanation and intervention have typically been studied separately from detection, which does not reflect real-world conditions. Further, since curating large annotated datasets for meme moderation is prohibitively expensive, we propose a novel framework - PEST - that leverages task-specific generative VLMs and the few-shot adaptability of large VLMs to cater to different types of memes. We believe this is the first work focused on generalizable hateful meme moderation under limited data conditions, and has strong potential for deployment in real-world production scenarios. Warning: Contains potentially toxic contents.},
+booktitle = {Proceedings of the 34th ACM International Conference on Multimedia},
+pages = {8470–8478},
+numpages = {9},
+keywords = {hateful memes, content moderation, steering agents, few-shot alignment},
+location = {Rio de Janeiro, Brazil},
+series = {MM '26}
+}
+```
+
+```bibtex
 @misc{rizwan2026pestparameterefficientsteering,
       title={PEST: Parameter Efficient Steering of Blackbox VLMs via Agentic Few-shot Alignment for Hateful Meme Moderation}, 
       author={Naquee Rizwan and Subhankar Swain and Paramananda Bhaskar and Shehryaar Shah Khan and Gagan Aryan and Animesh Mukherjee},
