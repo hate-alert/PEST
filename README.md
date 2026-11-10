@@ -8,6 +8,8 @@ Naquee Rizwan, Subhankar Swain, Paramananda Bhaskar, Shehryaar Shah Khan*, Gagan
 
 ## Dataset 🤗 : [https://huggingface.co/datasets/swainsubhankar/PEST](https://huggingface.co/datasets/swainsubhankar/PEST)
 
+## Proceedings: [https://dl.acm.org/doi/abs/10.1145/3767308.3836309](https://dl.acm.org/doi/abs/10.1145/3767308.3836309)
+
 ## Arxiv: [https://arxiv.org/abs/2601.04692](https://arxiv.org/abs/2601.04692)
 
 <p align="center">
